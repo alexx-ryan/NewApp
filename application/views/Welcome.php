@@ -68,10 +68,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Insert!</h1>
+	<h1>Welcome!</h1>
 
 	<div id="body">
-		<p>You are looking at insert.php</p>
+		<p>You are looking at Welcome.php</p>
 
 	</div>
 
